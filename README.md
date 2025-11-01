@@ -51,6 +51,7 @@ Initial exploration in Power BI included:
 3. Interactive slicers by Country for comparative insights.
 
 # Data Analysis
+![sales dashbw](https://github.com/user-attachments/assets/14bec20b-cbad-450a-8b64-aa32f4933a08)
 
 # Revenue Performance
 Total revenue amounted to $106000, with total discounts of $14000 and 220 units sold.
